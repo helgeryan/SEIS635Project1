@@ -1,0 +1,19 @@
+1: As a senior, I want to test my brain level, so that I can train my mental abilities.
+
+2: As a senior, I want a game that's simple, so that I can play while watching TV.
+
+3: As a senior, I want a game that can be replayed, so that I can continue playing.
+
+4: As a senior, I want a game that changes, so that I play the same game over again.
+
+5: As a husband, I want a game that can have multiplayer, so that I can play with my wife.
+
+6: As a gamer, I want a game that has different levels of difficulty, so that I can test my mental ability.
+
+7: As a gamer, I want to keep stats on how many times I have won/lost, so that I see my improvement.
+
+8: As a gamer, I want to have a timer that tracks my time, so that I can see if I improve.
+
+9: As a user, I want my score to be counted, so that I don't have to keep track myself.
+
+10: As a user, I want to be able to setup different accounts, so that multiple records can be tracked.
